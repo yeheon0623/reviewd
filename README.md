@@ -8,7 +8,7 @@ Apps built on top of Google API
    Unzip and install
 
 2. install maven and nginx,
-   download link: https://maven.apache.org/download.cgi （this project's maven's version is 3.8
+   download link: https://maven.apache.org/download.cgi （this project's maven's version is 3.8)
    nginx I have put the archive in my GitHub repository
 
 
@@ -20,3 +20,5 @@ Visit http://localhost:8081/shop-type/list, if you can see the JSON data, then i
 5. cmd input this commond: start nginx.exe
    
 7. Go to http://127.0.0.1:8080/ open developer mode, and you should see this page
+   ![image](https://github.com/yeheon0623/reviewed/assets/125937287/03831efc-cb36-46f1-a876-1bb2ddc5747e)
+
