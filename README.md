@@ -12,8 +12,11 @@ Apps built on top of Google API
    nginx I have put the archive in my GitHub repository
 
 
-3. Importing sql files 
+3. Importing sql files
+ 
 4.Then change the MySQL and Reids connection elements to your own, and start the project
 Visit http://localhost:8081/shop-type/list, if you can see the JSON data, then import the success
+
 5. cmd input this commond: start nginx.exe
-6. Go to http://127.0.0.1:8080/ open developer mode, and you should see this page
+   
+7. Go to http://127.0.0.1:8080/ open developer mode, and you should see this page
